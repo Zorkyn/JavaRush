@@ -22,11 +22,15 @@ public class Solution
         ArrayList<String> list = new ArrayList<String>();
 
         for (int i = 0; i < 5; i++)
-            list.add(reader.readLine());
+        {
+            //list.add(reader.readLine());
+            list.add("name" + i);
+        }
 
         System.out.println(list.size());
-        for (int i = 0; i < list.size(); i++)
-            System.out.println(list.get(i));
+        System.out.println(list);
+        //for (int i = 0; i < list.size(); i++)
+        //  System.out.println(list.get(i));
 
     }
 }
