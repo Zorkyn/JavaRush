@@ -1,4 +1,4 @@
-package com.javarush.test.level07.lesson04.task01.task03;
+package com.javarush.test.level07.lesson04.task03;
 
 /**
  * Created with IntelliJ IDEA.
