@@ -37,4 +37,4 @@ C:\Program Files (x86)\JetBrains\IntelliJ IDEA 11.0\plugins
 
 P.S
 В файле JavaRushPlugin.propeties хранится твой секретный ключ для авторизации.
-Не показывай его никому.
+Не показывай его никому и никогда!
