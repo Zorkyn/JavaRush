@@ -1,4 +1,4 @@
 *.class
-
-/.idea/*
+.gitignore
 workspace.xml
+/.idea/*
