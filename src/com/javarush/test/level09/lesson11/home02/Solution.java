@@ -13,7 +13,16 @@ public class Solution
         {
             System.out.println(i);
 
-            //Написать тут ваш код
+            // TODO not passed test
+            try
+            {
+                Thread.sleep(1000);
+            }
+            catch (Exception e)
+            {
+                System.out.println("except = " + i);
+            }
+
         }
     }
 }
